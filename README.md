@@ -28,8 +28,8 @@ Run this command in the application directory to run the test suite
 	
 Database and Postman
 
-Postman json (Slim Framework Testing.postman_collection.json) file imported into this.
-Database file (slimframework3.sql) file placed on root directory.
+	Postman json (Slim Framework Testing.postman_collection.json) file imported into this.
+	Database file (slimframework3.sql) file placed on root directory.
 	
 
 
